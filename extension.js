@@ -102,7 +102,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: test,
+        website: http://www.minecolt.com,
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
